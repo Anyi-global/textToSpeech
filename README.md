@@ -8,7 +8,7 @@ A system that converts written text into speech, particularly to support the inc
 - To run the app from the Python IDLE text editor, press "Shift + f5" key on your keyboard.
 - Install the necessary Python dependencies as prompted on your screen using the Python package manager "pip", E.g., "pip install *package_name*".
 
-**Install the following packages:**
+**Install the following packages:** <br>
 '''
 pip install tkinter <br>
 pip install pyttsx3 <br>
