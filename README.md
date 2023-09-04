@@ -10,10 +10,11 @@ A system that converts written text into speech, particularly to support the inc
 
 **Install the following packages:**
 '''
-pip install tkinter
-pip install pyttsx3
+pip install tkinter <br>
+pip install pyttsx3 <br>
 pip install PyPDF2
 '''
+<br>
 Then run the app again to start using the app!!
 
 **Congratulations!!!**
