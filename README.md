@@ -9,12 +9,12 @@ A system that converts written text into speech, particularly to support the inc
 - Install the necessary Python dependencies as prompted on your screen using the Python package manager "pip", E.g., "pip install *package_name*".
 
 **Install the following packages:** <br>
-'''
+''' <br>
 pip install tkinter <br>
 pip install pyttsx3 <br>
-pip install PyPDF2
+pip install PyPDF2 <br>
 '''
-<br>
+<br><br>
 Then run the app again to start using the app!!
 
 **Congratulations!!!**
